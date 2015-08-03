@@ -1,6 +1,7 @@
-package main.com.unity;
+package com.unity;
 
-import main.com.unity.assgnmt2.linkedlists.logic.MyLinkedList;
+
+import com.unity.assgnmt2.linkedlists.logic.MyLinkedList;
 
 /**
  * Created by ypolshchykau on 31.07.2015.

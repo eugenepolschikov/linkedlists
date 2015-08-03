@@ -1,4 +1,4 @@
-package main.com.unity.assgnmt2.linkedlists.logic;
+package com.unity.assgnmt2.linkedlists.logic;
 
 import java.util.Collections;
 import java.util.Iterator;
@@ -43,7 +43,7 @@ public class MyLinkedList<T> implements Iterable<T> {
      * append method for linked list
      *
      *
-     * @param itemmmm
+     * @param item
      */
 
     public void append(T item) {

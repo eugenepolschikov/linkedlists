@@ -1,4 +1,4 @@
-package main.com.unity.assgnmt2.linkedlists.logic;
+package com.unity.assgnmt2.linkedlists.logic;
 
 /**
  * Created by ypolshchykau on 31.07.2015.
