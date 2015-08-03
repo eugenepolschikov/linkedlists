@@ -80,7 +80,62 @@ public class Runner
         instance.listsPrinter(appendList,prependList,myListToAddInAcsOrder,javaLibList);
 
 
+        Integer num8 = new Integer(-300);
+        appendList.append(num8);
+        prependList.prepend(num8);
+        myListToAddInAcsOrder.addInAscOrder(num8);
+        javaLibList.appendInAscendingOrder(num8);
+        instance.listsPrinter(appendList,prependList,myListToAddInAcsOrder,javaLibList);
 
+
+        num8 = new Integer(225);
+        appendList.append(num8);
+        prependList.prepend(num8);
+        myListToAddInAcsOrder.addInAscOrder(num8);
+        javaLibList.appendInAscendingOrder(num8);
+        instance.listsPrinter(appendList,prependList,myListToAddInAcsOrder,javaLibList);
+
+        num8 = new Integer(225);
+        appendList.append(num8);
+        prependList.prepend(num8);
+        myListToAddInAcsOrder.addInAscOrder(num8);
+        javaLibList.appendInAscendingOrder(num8);
+        instance.listsPrinter(appendList,prependList,myListToAddInAcsOrder,javaLibList);
+
+        num8 = new Integer(225);
+        appendList.append(num8);
+        prependList.prepend(num8);
+        myListToAddInAcsOrder.addInAscOrder(num8);
+        javaLibList.appendInAscendingOrder(num8);
+        instance.listsPrinter(appendList,prependList,myListToAddInAcsOrder,javaLibList);
+
+        num8 = new Integer(0);
+        appendList.append(num8);
+        prependList.prepend(num8);
+        myListToAddInAcsOrder.addInAscOrder(num8);
+        javaLibList.appendInAscendingOrder(num8);
+        instance.listsPrinter(appendList,prependList,myListToAddInAcsOrder,javaLibList);
+
+        num8 = new Integer(0);
+        appendList.append(num8);
+        prependList.prepend(num8);
+        myListToAddInAcsOrder.addInAscOrder(num8);
+        javaLibList.appendInAscendingOrder(num8);
+        instance.listsPrinter(appendList,prependList,myListToAddInAcsOrder,javaLibList);
+
+        num8 = new Integer(0);
+        appendList.append(num8);
+        prependList.prepend(num8);
+        myListToAddInAcsOrder.addInAscOrder(num8);
+        javaLibList.appendInAscendingOrder(num8);
+        instance.listsPrinter(appendList,prependList,myListToAddInAcsOrder,javaLibList);
+
+        num8 = new Integer(1);
+        appendList.append(num8);
+        prependList.prepend(num8);
+        myListToAddInAcsOrder.addInAscOrder(num8);
+        javaLibList.appendInAscendingOrder(num8);
+        instance.listsPrinter(appendList,prependList,myListToAddInAcsOrder,javaLibList);
 
 
     }
