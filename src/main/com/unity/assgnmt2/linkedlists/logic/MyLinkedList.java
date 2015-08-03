@@ -35,12 +35,15 @@ public class MyLinkedList<T> implements Iterable<T> {
         first = null;
         last = null;
         N = 0;
-    }
+    
+
+}
 
     /**
      * append method for linked list
      *
-     * @param item
+     *
+     * @param itemmmm
      */
 
     public void append(T item) {
